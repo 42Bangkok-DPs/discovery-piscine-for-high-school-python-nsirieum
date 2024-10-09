@@ -1,0 +1,7 @@
+mkdir discovery_piscine
+ls
+mkdir cell00
+mv cell00 discovery_piscine
+ls
+mkdir ex00
+mv ex00 discovery_piscine/cell00
